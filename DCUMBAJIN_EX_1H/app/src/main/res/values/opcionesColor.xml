@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="combo_colores">
+        <item>Seleccionar</item>
+        <item>Azul</item>
+        <item>Plomo</item>
+        <item>Blanco</item>
+        <item>Negro</item>
+    </string-array>
+</resources>

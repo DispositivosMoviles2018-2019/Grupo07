@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AppBackground</string>
+    <string name="hello">Hello World, DownloadActivity!</string>
+</resources>

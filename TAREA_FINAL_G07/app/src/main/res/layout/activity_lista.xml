@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="ec.edu.uce.tarea_final_2h_wsalazar.ec.edu.uce.tarea_final_2h_clargo.vista.ListaActivity">
+    tools:context="ec.edu.uce.tarea_final_2h_g07.vista.ListaActivity">
 
     <android.support.design.widget.AppBarLayout
         android:layout_width="match_parent"

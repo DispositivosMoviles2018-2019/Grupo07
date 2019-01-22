@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="ec.edu.uce.tarea_final_2h_wsalazar">
+    package="ec.edu.uce.tarea_final_2h_g07">
 
     <!-- To auto-complete the email text field in the login form with the user's emails -->
     <uses-permission android:name="android.permission.GET_ACCOUNTS" />
@@ -23,7 +23,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
-            android:name="ec.edu.uce.tarea_final_2h_wsalazar.vista.LoginActivity"
+            android:name="ec.edu.uce.tarea_final_2h_g07.vista.LoginActivity"
             android:label="@string/app_name">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -32,14 +32,14 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="ec.edu.uce.tarea_final_2h_wsalazar.vista.ListaActivity"
+            android:name="ec.edu.uce.tarea_final_2h_g07.vista.ListaActivity"
             android:label="@string/title_activity_lista"
             android:theme="@style/AppTheme.NoActionBar" />
-        <activity android:name="ec.edu.uce.tarea_final_2h_wsalazar.vista.Menu" />
-        <activity android:name="ec.edu.uce.tarea_final_2h_wsalazar.vista.ReservarActivity" />
-        <activity android:name="ec.edu.uce.tarea_final_2h_wsalazar.vista.Preferencias" />
-        <activity android:name="ec.edu.uce.tarea_final_2h_wsalazar.vista.MostrarDatos" />
-        <activity android:name="ec.edu.uce.tarea_final_2h_wsalazar.vista.SMSActivity"></activity>
+        <activity android:name="ec.edu.uce.tarea_final_2h_g07.vista.Menu" />
+        <activity android:name="ec.edu.uce.tarea_final_2h_g07.vista.ReservarActivity" />
+        <activity android:name="ec.edu.uce.tarea_final_2h_g07.vista.Preferencias" />
+        <activity android:name="ec.edu.uce.tarea_final_2h_g07.vista.MostrarDatos" />
+        <activity android:name="ec.edu.uce.tarea_final_2h_g07.vista.SMSActivity"></activity>
     </application>
 
 </manifest>

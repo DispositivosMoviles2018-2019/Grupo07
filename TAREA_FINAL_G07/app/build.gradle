@@ -3,7 +3,7 @@ apply plugin: 'com.android.application'
 android {
     compileSdkVersion 26
     defaultConfig {
-        applicationId "ec.edu.uce.tarea_final_1h_amedina"
+        applicationId "ec.edu.uce.tarea_final_g07"
         minSdkVersion 16
         targetSdkVersion 26
         versionCode 1
